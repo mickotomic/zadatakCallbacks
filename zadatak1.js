@@ -21,8 +21,4 @@ const getData = async function(){
     console.error(errors);
   }
 };
-
-
-
-
 getData();
